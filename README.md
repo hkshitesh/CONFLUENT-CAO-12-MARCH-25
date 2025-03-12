@@ -13,3 +13,7 @@
 DAY-1 Feedback Link
 
 https://docs.google.com/forms/d/e/1FAIpQLSdKC1602B3gsWeErRAqSB3yI2i5tGgDbt8H9JSkUW12jK_2og/viewform?usp=sharing
+
+## DAY-1 QUIZ 2 Leaderboard
+
+![image](https://github.com/user-attachments/assets/581e178c-a4f1-4666-ab29-a42960596c3f)
