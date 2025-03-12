@@ -6,3 +6,7 @@
 
 2.  docker pull cnfltraining/test-consumer-net:2.0
 
+## DAY-1 QUIZ-1 Leadboard
+
+![image](https://github.com/user-attachments/assets/40df7fc2-83f8-4d4f-9b9b-f81a238397fb)
+
