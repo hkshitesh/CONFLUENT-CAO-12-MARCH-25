@@ -18,6 +18,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKC1602B3gsWeErRAqSB3yI2i5tGgDbt8H9JSk
 
 ![image](https://github.com/user-attachments/assets/581e178c-a4f1-4666-ab29-a42960596c3f)
 
+![image](https://github.com/user-attachments/assets/3eb84a93-845c-4274-bf9f-b7f1963af0a6)
+
+
 ## DAY-2 Feedback Link
 
 https://forms.gle/ogY8okeXdVZvRAEv5
