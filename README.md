@@ -17,3 +17,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKC1602B3gsWeErRAqSB3yI2i5tGgDbt8H9JSk
 ## DAY-1 QUIZ 2 Leaderboard
 
 ![image](https://github.com/user-attachments/assets/581e178c-a4f1-4666-ab29-a42960596c3f)
+
+## DAY-2 Quiz 3 Leadbaord
+
