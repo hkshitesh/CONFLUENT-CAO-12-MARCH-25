@@ -26,7 +26,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKC1602B3gsWeErRAqSB3yI2i5tGgDbt8H9JSk
 https://forms.gle/ogY8okeXdVZvRAEv5
 
 
-##Kafak docker image name
+## Kafak docker image name
 
 confluentinc/cp-enterprise-kafka:latest-ubi8
 
