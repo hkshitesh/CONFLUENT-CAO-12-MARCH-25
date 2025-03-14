@@ -28,6 +28,6 @@ https://forms.gle/ogY8okeXdVZvRAEv5
 
 ## Kafak docker image name
 
-confluentinc/cp-enterprise-kafka:7.8.1
+confluentinc/cp-enterprise-kafka:6.0.0-10-ubi8
 
 
